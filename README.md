@@ -21,7 +21,7 @@
 
 👋 Hi! I'm **Ahad Noor**, a passionate **Full Stack Developer** from **Bahawalpur, Pakistan 🇵🇰**
 
-- 🚀 **6 months** of hands-on experience in **MERN Stack** development
+- 🚀 **1 year ** of hands-on experience in **MERN Stack** development
 - 💡 Skilled in building **full-stack web apps**, **RESTful APIs** & **AI integrations**
 - 🌐 Experienced with **CMS platforms** — WordPress, Shopify & Wix
 - 🔧 Backend skills in **Node.js**, **Express.js** & **PHP**
