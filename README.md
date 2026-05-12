@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahadnoor-dev)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahadnoor442@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ahadnoor.netlify.app)
-[![Phone](https://img.shields.io/badge/03704084506-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+9203704084506)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+9203704084506)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ahad2010&label=Profile+Views&color=0e75b6&style=flat)
 
@@ -17,20 +17,19 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-```javascript
-const AhadNoor = {
-  role     : "Full Stack Developer (MERN + CMS)",
-  location : "Bahawalpur, Pakistan 🇵🇰",
-  email    : "ahadnoor442@gmail.com",
-  focus    : ["Clean Code", "Scalable Apps", "AI Integration"],
-  learning : ["Next.js", "TypeScript", "Docker"],
-  motto    : "One commit at a time — building impactful solutions."
-};
-```
+👋 Hi! I'm **Ahad Noor**, a passionate **Full Stack Developer** from **Bahawalpur, Pakistan 🇵🇰**
 
-> 🚀 Motivated MERN Stack Developer with **6 months** of hands-on experience building full-stack web applications. Skilled in RESTful APIs, AI chatbot integration, CMS platforms, and deploying modern web solutions.
+- 🚀 **6 months** of hands-on experience in **MERN Stack** development
+- 💡 Skilled in building **full-stack web apps**, **RESTful APIs** & **AI integrations**
+- 🌐 Experienced with **CMS platforms** — WordPress, Shopify & Wix
+- 🔧 Backend skills in **Node.js**, **Express.js** & **PHP**
+- 📚 Currently learning **Next.js**, **TypeScript** & **Docker**
+- 🎯 Passionate about **clean code**, **scalable solutions** & **problem solving**
+- 📫 Reach me at **ahadnoor442@gmail.com**
+
+> *"One commit at a time — building impactful solutions."* 💪
 
 ---
 
