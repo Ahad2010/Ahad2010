@@ -21,7 +21,7 @@
 
 👋 Hi! I'm **Ahad Noor**, a passionate **Full Stack Developer** from **Bahawalpur, Pakistan 🇵🇰**
 
-- 🚀 **1 year ** of hands-on experience in **MERN Stack** development
+- 🚀 **1 year** of hands-on experience in **MERN Stack** development
 - 💡 Skilled in building **full-stack web apps**, **RESTful APIs** & **AI integrations**
 - 🌐 Experienced with **CMS platforms** — WordPress, Shopify & Wix
 - 🔧 Backend skills in **Node.js**, **Express.js** & **PHP**
@@ -73,8 +73,6 @@
 
 > AI-powered chat platform with personalized greetings, voice input, prompt suggestions, and real-time responses.
 
-![NexusAI](https://raw.githubusercontent.com/Ahad2010/Ahad2010/main/assets/nexusai.png)
-
 **Stack:** `React` `Node.js` `Express` `MongoDB` `OpenAI API`
 
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-0A66C2?style=for-the-badge)](https://xevenai1.netlify.app)
@@ -86,8 +84,6 @@
 
 > Premium watch e-commerce store with elegant editorial UI, product collections, and promotional ticker.
 
-![Wristly](https://raw.githubusercontent.com/Ahad2010/Ahad2010/main/assets/wristly.png)
-
 **Stack:** `React` `Node.js` `MongoDB` `Tailwind CSS`
 
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-0A66C2?style=for-the-badge)](https://xevenstudio.kesug.com)
@@ -98,8 +94,6 @@
 ### 🏢 Xeven Studio — Software Agency Website
 
 > Professional software agency operating across Pakistan, UAE, KSA & USA — custom software for enterprises & startups.
-
-![Xeven](https://raw.githubusercontent.com/Ahad2010/Ahad2010/main/assets/xeven.png)
 
 **Stack:** `React` `Next.js` `Tailwind CSS` `Node.js`
 
