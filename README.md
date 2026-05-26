@@ -21,7 +21,7 @@
 
 I'm **Ahad Noor**, a **Full-Stack MERN Developer** based in **Bahawalpur, Pakistan** 🇵🇰, available **worldwide for remote work**. I design and ship production-ready web applications that combine clean architecture, performant frontends, and secure backend APIs.
 
-- 🔭 **Specializing in:** MERN Stack (MongoDB, Express, React, Node.js), RESTful API design, and AI-powered web apps
+- 🔭 **Specializing in:** MERN Stack (MongoDB, Express, React, Node.js), SaaS platforms, RESTful API design, and AI-powered web apps
 - 💼 **1+ year** of hands-on experience delivering full-stack solutions for clients across **Pakistan, UAE, KSA, and USA**
 - 🛒 **CMS expertise:** WordPress, Shopify, and Wix — including custom themes and headless setups
 - 🤖 **AI integrations:** OpenAI API, chatbot development, and prompt engineering
@@ -109,11 +109,24 @@ A corporate website for a software agency serving clients in **Pakistan, UAE, KS
 
 ---
 
+### 🎓 EduSchool — Multi-Role School Management SaaS
+
+A full-fledged **school management SaaS platform** built on the MERN stack, serving **admins, teachers, and students/parents** from a single unified system. Streamlines student records, class organization, and day-to-day school operations through role-based dashboards and a clean, intuitive UI.
+
+**Highlights:** Multi-role authentication · Student & class management · Admin/teacher/student dashboards · Scalable SaaS architecture
+**Stack:** `React` `Node.js` `Express` `MongoDB` `Tailwind CSS` `JWT Auth`
+
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-0A66C2?style=for-the-badge)](https://school-panel1.netlify.app)
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/Ahad2010)
+
+---
+
 ## 💼 Services
 
 | Service | What I Build |
 |---------|-------------|
 | 🌐 **Full-Stack Web Applications** | MERN apps with REST APIs, authentication, and database design |
+| 🏢 **SaaS Platform Development** | Multi-role dashboards, role-based access control, and scalable architecture |
 | 🔧 **Backend & API Development** | Node.js, Express, PHP backends with MongoDB / MySQL |
 | 🛒 **E-Commerce Solutions** | Shopify stores, WooCommerce sites, and custom MERN storefronts |
 | 📝 **CMS Websites** | WordPress custom themes, Wix builds, and headless CMS setups |
@@ -146,7 +159,7 @@ A corporate website for a software agency serving clients in **Pakistan, UAE, KS
 
 **Open to freelance projects, long-term collaborations, and full-time remote opportunities.**
 
-Whether you need a **MERN stack web app**, an **AI-integrated platform**, a **Shopify store**, or a **WordPress site** — I'd love to help bring your idea to life.
+Whether you need a **MERN stack web app**, a **SaaS platform**, an **AI-integrated tool**, a **Shopify store**, or a **WordPress site** — I'd love to help bring your idea to life.
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahadnoor-dev)
 [![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahadnoor442@gmail.com)
@@ -163,6 +176,6 @@ Whether you need a **MERN stack web app**, an **AI-integrated platform**, a **Sh
 
 ⭐ **If you find my work valuable, a star on my repositories goes a long way!**
 
-<sub>🔍 Keywords: Full Stack Developer · MERN Stack Developer · React Developer · Node.js Developer · MongoDB · Express.js · Next.js · WordPress Developer · Shopify Developer · AI Integration · OpenAI API · Freelance Developer Pakistan · Remote Web Developer</sub>
+<sub>· MERN Stack Developer · SaaS Developer · React Developer · Node.js Developer · MongoDB · Express.js · Next.js · WordPress Developer · Shopify Developer · AI Integration · OpenAI API · School Management System · Freelance Developer Pakistan · Remote Web Developer</sub>
 
 </div>
