@@ -22,9 +22,9 @@
 I'm **Ahad Noor**, a **Full-Stack MERN Developer** based in **Bahawalpur, Pakistan** 🇵🇰, available **worldwide for remote work**. I design and ship production-ready web applications that combine clean architecture, performant frontends, and secure backend APIs.
 
 - 🔭 **Specializing in:** MERN Stack (MongoDB, Express, React, Node.js), SaaS platforms, RESTful API design, and AI-powered web apps
-- 💼 **1+ year** of hands-on experience delivering full-stack solutions for clients across **Pakistan, UAE, KSA, and USA**
+- 💼 **2+ years** of hands-on experience delivering full-stack solutions for clients across **Pakistan, UAE, KSA, and USA**
 - 🛒 **CMS expertise:** WordPress, Shopify, and Wix — including custom themes and headless setups
-- 🤖 **AI integrations:** OpenAI API, chatbot development, and prompt engineering
+- 🤖 **AI integrations:** Claude & OpenAI APIs, chatbot development, and prompt engineering
 - 🌱 **Currently mastering:** Next.js 14, TypeScript, Docker, and system design
 - 📬 **Reach me:** [ahadnoor442@gmail.com](mailto:ahadnoor442@gmail.com) — usually respond within 24 hours
 
@@ -81,7 +81,6 @@ An AI-powered conversational platform built with the **MERN stack** and the **Op
 **Stack:** `React` `Node.js` `Express` `MongoDB` `OpenAI API` `Tailwind CSS`
 
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-0A66C2?style=for-the-badge)](https://xevenai1.netlify.app)
-[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/Ahad2010)
 
 ---
 
@@ -92,8 +91,7 @@ A premium watch e-commerce experience with an editorial-style UI, curated produc
 **Highlights:** Editorial UI · Product collections · Cart & checkout · Mobile-first responsive design
 **Stack:** `React` `Node.js` `MongoDB` `Tailwind CSS`
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-0A66C2?style=for-the-badge)](https://xevenstudio.kesug.com)
-[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/Ahad2010)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-0A66C2?style=for-the-badge)](https://wristlystore.netlify.app)
 
 ---
 
@@ -104,8 +102,7 @@ A corporate website for a software agency serving clients in **Pakistan, UAE, KS
 **Highlights:** SEO-optimized · Server-side rendering · Lead capture · Multi-region targeting
 **Stack:** `Next.js` `React` `Tailwind CSS` `Node.js`
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-0A66C2?style=for-the-badge)](https://xevenstudio.kesug.com)
-[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/Ahad2010)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-0A66C2?style=for-the-badge)](https://xevenstudio.netlify.app)
 
 ---
 
@@ -117,7 +114,6 @@ A full-fledged **school management SaaS platform** built on the MERN stack, serv
 **Stack:** `React` `Node.js` `Express` `MongoDB` `Tailwind CSS` `JWT Auth`
 
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-0A66C2?style=for-the-badge)](https://school-panel1.netlify.app)
-[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/Ahad2010)
 
 ---
 
