@@ -159,7 +159,7 @@ A full-fledged **school management SaaS platform** built on the MERN stack, serv
 
 **Open to freelance projects, long-term collaborations, and full-time remote opportunities.**
 
-Whether you need a **MERN stack web app**, a **SaaS platform**, an **AI-integrated tool**, a **Shopify store**, or a **WordPress site** — I'd love to help bring your idea to life.
+Whether you need a **Full stack web app**, a **SaaS platform**, an **AI-integrated tool**, a **Shopify store**, or a **WordPress site** — I'd love to help bring your idea to life.
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahadnoor-dev)
 [![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahadnoor442@gmail.com)
