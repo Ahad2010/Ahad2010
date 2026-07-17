@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Ahad%20Noor&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20MERN%20Developer%20%7C%20React%20%7C%20Node.js%20%7C%20AI%20Integration&descAlignY=55&descSize=18&animation=fadeIn" alt="Ahad Noor — Full-Stack MERN Developer Banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Ahad%20Noor&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20MERN%20Developer%20%7C%20React%20%7C%20Node.js%20%7C%20AI%20Integration&descAlignY=55&descSize=18&animation=fadeIn" alt="Ahad Noor — Full-Stack Developer Banner" width="100%"/>
 
 ### 🚀 Building scalable web applications with the Full stack, AI integrations & modern CMS platforms
 
