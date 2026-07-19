@@ -22,7 +22,7 @@
 I'm **Ahad Noor**, a **Full-Stack Developer** based in **Bahawalpur, Pakistan** 🇵🇰, available **Worldwide for remote work**. I design and ship production-ready web applications that combine clean architecture, performant frontends, and secure backend APIs.
 
 - 🔭 **Specializing in:** MERN Stack (MongoDB, Express, React, Node.js), SaaS platforms, RESTful API design, and AI-powered web apps
-- 💼 **1+ year** of hands-on experience delivering full-stack solutions for clients across **Pakistan, UAE, KSA, and USA**
+- 💼 **2+ year** of hands-on experience delivering full-stack solutions for clients across **Pakistan, UAE, KSA, and USA**
 - 🛒 **CMS expertise:** WordPress, Shopify, and Wix — including custom themes and headless setups
 - 🤖 **AI integrations:** OpenAI API, chatbot development, and prompt engineering
 - 🌱 **Currently mastering:** Next.js 14, TypeScript, Docker, and system design
