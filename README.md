@@ -125,7 +125,7 @@ A full-fledged **school management SaaS platform** built on the MERN stack, serv
 
 | Service | What I Build |
 |---------|-------------|
-| 🌐 **Full-Stack Web Applications** | MERN apps with REST APIs, authentication, and database design |
+| 🌐 **Full-Stack Web Applications** |Full Stack apps with REST APIs, authentication, and database design |
 | 🏢 **SaaS Platform Development** | Multi-role dashboards, role-based access control, and scalable architecture |
 | 🔧 **Backend & API Development** | Node.js, Express, PHP ,Python backends with MongoDB / MySQL |
 | 🛒 **E-Commerce Solutions** | Shopify stores, WooCommerce sites, and custom MERN storefronts |
