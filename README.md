@@ -176,6 +176,6 @@ Whether you need a **Full stack web app**, a **SaaS platform**, an **AI-integrat
 
 ⭐ **If you find my work valuable, a star on my repositories goes a long way!**
 
-<sub>· MERN Stack Developer · SaaS Developer · React Developer · Node.js Developer · MongoDB · Express.js · Next.js · WordPress Developer · Shopify Developer · AI Integration · OpenAI API · School Management System · Freelance Developer Pakistan · Remote Web Developer</sub>
+<sub>.Full stack Developer· MERN Stack Developer · SaaS Developer · React Developer · Node.js Developer · MongoDB · Express.js · Next.js · WordPress Developer · Shopify Developer · AI Integration · OpenAI API · School Management System · Freelance Developer Pakistan · Remote Web Developer</sub>
 
 </div>
