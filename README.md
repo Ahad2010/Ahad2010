@@ -157,7 +157,7 @@ A full-fledged **school management SaaS platform** built on the MERN stack, serv
 
 <div align="center">
 
-**Open to freelance projects, long-term collaborations, and full-time remote opportunities.**
+**Open to freelance projects, long-term collaborations, and full-time remote Jobs and Opportunity**
 
 Whether you need a **Full stack web app**, a **SaaS platform**, an **AI-integrated tool**, a **Shopify store**, or a **WordPress site** — I'd love to help bring your idea to life.
 
